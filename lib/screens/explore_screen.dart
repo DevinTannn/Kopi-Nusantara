@@ -1,0 +1,1 @@
+// Tampilan antarmuka halaman eksplorasi atau pencarian jenis-jenis kopi berdasarkan kategori.
